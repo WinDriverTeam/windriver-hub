@@ -1,0 +1,10 @@
+*.log
+**/*.iml
+**/*target
+**/*.idea
+**/*.txt
+**/*.classpath
+**/*.project
+**/*.settings
+**/*screenshots
+!/images/user-profile/*.txt
