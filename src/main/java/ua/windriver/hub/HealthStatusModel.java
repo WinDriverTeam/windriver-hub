@@ -1,4 +1,4 @@
-package com.epam.windriver.hub;
+package ua.windriver.hub;
 
 
 import javax.xml.bind.annotation.XmlAccessType;
